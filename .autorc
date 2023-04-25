@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "0eN",
+  "repo": "container-tdew2vk",
+  "name": "0eN",
+  "email": "annonymo007@gmail.com",
+}
